@@ -30,7 +30,7 @@ python -m spacy download en
 ```
 * Import metric package:
 1. install Java. The Linux version of the Java installer can be found [here](https://drive.google.com/drive/folders/1bENQbrLzw3s7BEPJW9ihWxUc-f_CwBAH?usp=drive_link). You may also download it directly from the official Java website.
-2. Update the Java executable path in all JAR execution commands to your installation directory, such as here. 
+2. Update the Java executable path in all JAR execution commands to your installation directory, such as [here](https://github.com/LDS614705356/FloodNet-plus/blob/master/datasets/metrics/meteor/meteor.py#L26). 
 
 * Download weights for resnet.
 
